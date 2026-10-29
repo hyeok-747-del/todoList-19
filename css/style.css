@@ -17,7 +17,7 @@ body {
   padding: 72px 20px;
   background: #eeeee4;
   color: var(--ink);
-  font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+  font-family: "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
 }
 
 /* 2. 종이처럼 보이는 목록 영역 */
@@ -39,7 +39,7 @@ body {
 }
 h1 {
   margin: 0;
-  font-family: 'AppleMyungjo', 'Batang', serif;
+  font-family: "AppleMyungjo", "Batang", serif;
   font-size: 46px;
   letter-spacing: -2px;
 }
@@ -75,7 +75,7 @@ input,
 button {
   font: inherit;
 }
-input[type='text'] {
+input[type="text"] {
   min-width: 0;
   padding: 13px 14px;
   color: var(--ink);
